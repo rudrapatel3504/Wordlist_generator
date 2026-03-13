@@ -1,6 +1,6 @@
 """
-WordForge — Core Generation Engine
-Shared between CLI (wordforge.py) and Flask webapp (app.py)
+Wordlist_generator — Core Generation Engine
+Shared between CLI and Flask webapp (app.py)
 """
 
 SPECIALS = ['@', '#', '$']

@@ -1,5 +1,5 @@
 """
-WordForge Flask Webapp
+Wordlist_generator Flask Webapp
 Run: python app.py
 Then open: http://localhost:5000
 """
